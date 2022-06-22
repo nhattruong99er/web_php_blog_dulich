@@ -1,0 +1,153 @@
+.block-tour {
+  padding: 0;
+  position: relative;
+}
+.block-tour .caption a.title-tour {
+  color: #003d71 !important;
+  font-weight: bold;
+  display: block;
+  font-size: 20px;
+}
+.block-tour .caption i.fa {
+  margin-right: 10px;
+  margin-left: 12px;
+}
+.block-tour .caption i.fas {
+  margin-right: 10px;
+  margin-left: 12px;
+}
+.block-tour .bottom {
+  /* background: #f2f2f2; */
+  margin-top: 15px;
+  position: relative;
+}
+.block-tour .bottom span {
+  color:red;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.block-tour .bottom i.fas {
+  margin-right: 10px;
+}
+.block-tour .bottom .btn {
+  position: absolute;
+  width: 38.888%;
+  height: 100%;
+  right: 0;
+  font-weight: bold;
+  border-radius: 0 0 4px 0;
+  font-size: 21px;
+  color:black;
+  line-height: 20px;
+  
+  padding-bottom: 10px;
+  
+}
+/* .btn-second{
+background:#ffc10e;
+} */
+
+.bottom{
+padding: 13px;  
+background: #f2f2f2;
+
+}
+
+
+.col{
+  float: left;
+
+}
+.row{
+ width: 1170px;
+  margin-left: 9%;
+}
+.img-rounded{
+  border-radius: 6px;
+  
+}
+.thumbnail{
+width: 330px;
+height: 500px;
+float: left;
+margin-left: 20px;
+margin-bottom: 20px;
+border: 2px solid #003c7127;
+border-radius: 6px;
+
+
+}
+
+
+.title-tour {
+  margin-bottom: 10px;
+  font-size: 20px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+}
+.caption{
+  width: 330px;
+  background:#f2f2f21e;
+  clear: left;
+
+}
+.location{
+  padding-bottom: 10px;
+}
+
+.search{
+width: 700px;
+background: rgba(0, 60, 113, 0.897);
+padding: 10px 15px;
+border-radius: 10px;
+border: 1px solid #023054de;
+box-shadow: 1px 1px 1px #023154;
+margin-left: 20%;
+
+
+}
+.bottom a:hover{
+  color: yellow;
+}
+.form{
+font-size: 14px;
+border-radius: 4px;
+}
+.search input{
+  width: 295px;
+  height: 40px;
+}
+.btn-timtour{
+      font-size: 20px;
+      margin-left: 20px;
+      background:#d9544fc0;
+      padding: 8px;
+      border-radius: 10px;
+      color: white;
+}
+.search button:hover{
+  background-color: rgba(255, 0, 0, 0.788);
+}
+.title{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+.title span{
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+}
+.title h2{
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 5px;
+}
+.btn-second{
+  text-decoration: none;
+}
+.title-tour{
+  text-decoration: none;
+}

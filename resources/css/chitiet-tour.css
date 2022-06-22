@@ -1,0 +1,262 @@
+.blog-title {
+    color: #fff;
+    position: absolute;
+    top: 24%;
+    left: 10%;
+    font-weight: 500;
+    font-size: 35px;
+    text-align: center;
+
+}
+.blog img{
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+    width: 1170px;
+    margin-left: 5%; 
+}
+.col-sm-4{
+    width: 330px;
+    float: left;
+    margin-left: 8%;
+    
+}
+.col-sm-8{
+    width: 717px;
+    float: left;
+    margin-left: 10%;
+}
+
+.buynow .panel {
+    position: relative;
+    padding-right: 180px;
+    border: 0;
+}
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+div {
+    display: block;
+}
+ .buynow .panel .panel-heading {
+    height: 80px;
+    border-radius: 0;
+}
+ .panel .panel-heading {
+    background: #003d71;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 700;
+   
+}
+.buynow .panel .panel-heading .left {
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 60px;
+}
+.buynow .panel .panel-heading .right {
+    /* float: right; */
+    display: inline-block;
+    width: 40%;
+    font-size: 16px;
+    text-decoration: none;
+}
+.buynow .panel .panel-heading .right {
+    float: right;
+}
+.buynow .panel .panel-heading .right span {
+    display: block;
+    padding: 4px 0;
+    
+}
+.buynow .panel a.btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 180px;
+    height: 100%;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 0;
+    line-height: 70px;
+    color: #fff;
+}
+.buynow .panel a.btn :hover{
+    color: black;
+}
+.text-center {
+    text-align: center;
+}
+.btn-second {
+    background: #ffc10e;
+    color: #fff;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+*{
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.panel-footer .detail {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+    font-size: 16px;
+}
+ .panel-footer .detail span {
+    color: #ffc10e;
+   
+}
+.panel-footer .step-heading {
+    color: #003e71;
+    border-bottom: 2px solid #ccc;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding: 5px 0;
+}
+.panel-footer .step-heading.text-align:justify {
+   font-size: 20px;
+   color:white;
+   font-weight:  900;
+}
+p {
+    margin: 0 0 10px;
+}
+
+.tour-info .panel-body {
+    background: #003d71;
+    color: #fff;
+    padding: 30px;
+}
+.tour-info .panel-footer {
+    background: #ffc10e;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    border: 0;
+}
+.panel-footer {
+    padding: 10px 15px;
+}
+/* khung hinh */
+.block-tour.thumbnail {
+    border: none;
+    border-radius: 6px;
+}
+.block-tour {
+    padding: 0;
+    position: relative;
+}
+.thumbnail {
+    display: block;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: #fff;
+}
+.block-tour.thumbnail img {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.block-tour .img-rounded {
+    min-width: 100%;
+}
+.thumbnail>img {
+    margin-right: auto;
+    margin-left: auto;
+}
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.img-rounded {
+    border-radius: 6px;
+}
+img {
+    vertical-align: middle;
+}
+.block-tour .caption {
+    position: relative;
+    background-position: left bottom;
+    padding: 20px 15px 10px 15px;
+}
+.thumbnail .caption {
+    color: #333;
+}
+.block-tour .bottom {
+    background: #f2f2f2;
+    padding: 10px 0 10px 15px;
+    position: relative;
+    border-radius: 0 0 4px 4px;
+    height: 50px;
+}
+.block-tour .bottom span {
+    color: #f00;
+    font-weight: bold;
+    font-size: 18px;
+}
+element.style {
+    width: 38.888%!important;
+}
+ .panel .panel-footer a {
+    line-height: 40px;
+}
+.block-tour .bottom .btn {
+    position: absolute;
+    height: 100%;
+    top: 0;
+    right: 0;
+    font-weight: bold;
+    border-radius: 0 0 4px 0;
+    font-size: 21px;
+
+}
+.btn-second {
+    background: #ffc10e;
+    color: #fff;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+}
+.block-tour .caption a.title-tour {
+    color: #003d71 !important;
+    font-weight: bold;
+    display: block;
+    font-size: 19px;
+}
+.fa-clock-o:before {
+    content: "\f017";
+}
+.block-tour.thumbnail {
+    border: 2px solid #003c7127;
+    border-radius: 6px;
+}
+.day-departure {
+    text-decoration: none;
+}
